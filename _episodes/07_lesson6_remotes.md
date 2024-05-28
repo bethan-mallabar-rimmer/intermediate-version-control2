@@ -12,6 +12,8 @@ adapted: false
 
 Aaassaasasakjsdksjhfaksjfhskj86968578
 
+adding new pineapples to the file
+
 At the start of the first session we created our *remote* repository on GitHub.
 We then linked our *local repository* with the *remote repository*.
 Git then tracks branches on the remote repository.
