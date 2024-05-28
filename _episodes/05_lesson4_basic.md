@@ -8,7 +8,8 @@ toc: true
 adapted: false
 ---
 
-## Basic Git
+## DOBasic Git
+
 
 We're going to review some git commands used to create a basic series of snapshots of our code.
 This will cover setting up a repository, seeing the status and history, creating new snapshots, and restoring previous snapshots of the directory.
