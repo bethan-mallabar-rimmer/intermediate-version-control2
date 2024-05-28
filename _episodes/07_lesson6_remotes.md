@@ -10,7 +10,7 @@ adapted: false
 
 ## Working with Remotes
 
-Aaassaasasakjsdksjhfaksjfhskj
+Aaassaasasakjsdksjhfaksjfhskj86968578
 
 At the start of the first session we created our *remote* repository on GitHub.
 We then linked our *local repository* with the *remote repository*.
